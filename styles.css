@@ -1,0 +1,12 @@
+img {
+    width: 500px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+.homer-reply {
+    padding: 20px;
+    display: inline;
+}
